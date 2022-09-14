@@ -10,4 +10,4 @@
 </ul>
 </p>
 
-<p>Para visualizar clique aqui</p>
+<p>Para visualizar clique <a href="https://williama-hub.github.io/Semantica/Sem%C3%A2ntica/Semantica.html">aqui</a></p>
